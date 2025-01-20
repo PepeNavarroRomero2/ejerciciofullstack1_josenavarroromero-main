@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import '../../styles/estilos2.css';
+
 
 export default function CreateContact() {
   const [nombre, setNombre] = useState("");
